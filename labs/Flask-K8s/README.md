@@ -6,7 +6,7 @@ Flask + React + Kubernetes 풀스택 이미지 갤러리 애플리케이션
 
 ## Preview
 
-<img src="./screenshots/main.png" width="600">
+<img src="./screenshots/main.png">
 
 
 ## 프로젝트 구조
