@@ -33,7 +33,7 @@ cd K8s-Windows-WSL2/labs/Flask-K8s
 
 ---
 
-## 📖 학습 내용
+## 학습 내용
 
 - Kubernetes 기본 개념
 - Docker 컨테이너화
